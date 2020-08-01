@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438675403774",
+    "firebase_url": "https://pixbomb-77474.firebaseio.com",
+    "project_id": "pixbomb-77474",
+    "storage_bucket": "pixbomb-77474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438675403774:android:7231edb39c7062fd0f46af",
+        "android_client_info": {
+          "package_name": "com.meghaagarwal.pixbomb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438675403774-5fi8k2fkn1ujkdna8t2s7r064sg3k97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jtm6oj9Y0IEhxLFK5-gVoiVVLAlSBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438675403774-5fi8k2fkn1ujkdna8t2s7r064sg3k97t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
